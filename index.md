@@ -4,7 +4,7 @@ title: ""
 nav_title: "About"
 ---
 
-<div style="margin-top: -1em;">
+<div style="margin-top: -1em;margin-bottom: 1em;">
   <span style="color: #0c246c; font-weight: bold; font-size: 2em;">
     Welcome
   </span>
