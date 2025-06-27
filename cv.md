@@ -41,42 +41,42 @@ BC Canada V6T 1L4<br>
 </div>
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
 <!-- UBC -->
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span><b>University of British Columbia (UBC)</b></span>
   <span>Vancouver, BC</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>Doctor of Philosophy (Ph.D.) in Economics</span>
   <span>2020 – Present</span>
 </div>
 
 <!-- Columbia -->
-<div style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
   <span><b>Columbia University</b></span>
   <span>New York, NY</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>Master of Arts (M.A.) in Economics</span>
   <span>2017 – 2018</span>
 </div>
 
 <!-- St. Gallen -->
-<div style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
   <span><b>University of St. Gallen (HSG)</b></span>
   <span>St. Gallen, Switzerland</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>Bachelor of Arts (B.A. HSG) in Economics</span>
   <span>2013 – 2016</span>
 </div>
 <ul style="padding-left: 1em; margin-left: 0; list-style: none;">
-  <li>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     Exchange Semester at the University of Hong Kong (HKU)
-    <span style="float: right;">2016</span>
+    <span style="white-space: nowrap;">2016</span>
   </li>
-  <li>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     Exchange Semester at the University of California, Los Angeles (UCLA)
-    <span style="float: right;">2015</span>
+    <span style="white-space: nowrap;">2015</span>
   </li>
 </ul>
 
@@ -107,21 +107,21 @@ See <a href="/research">Research</a>
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
 
 <!-- UBC RA -->
-<div style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
   <span><b>University of British Columbia</b></span>
   <span>Vancouver, BC</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>Research Assistant for Professors Isha Agarwal and Bo Bian</span>
   <span>2021 – 2022</span>
 </div>
 
 <!-- Columbia RA -->
-<div style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
   <span><b>Columbia University</b></span>
   <span>New York, NY</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>Research Assistant for Professor Stephanie Schmitt-Grohé </span>
   <span>2018 – 2019</span>
 </div>
@@ -134,13 +134,13 @@ See <a href="/research">Research</a>
 </div>
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
 
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span><b>University of British Columbia</b></span>
   <span>Vancouver, BC</span>
 </div>
 <div>Teaching Assistant</div>
 <ul style="padding-left: 1em; margin-left: 0; list-style: none;">
-  <li>
+  <li> 
     International Trade (Undergraduate)
     <span style="float: right;">2024</span>
   </li>
@@ -172,61 +172,61 @@ See <a href="/research">Research</a>
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
 
 <!-- SNB -->
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span><b>Swiss National Bank</b></span>
   <span>Zurich, Switzerland</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>PhD Intern, International Policy Analysis Unit</span>
   <span>2023 – 2024</span>
 </div>
 
 <!-- IMF -->
-<div style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
   <span><b>International Monetary Fund</b></span>
   <span>Washington, DC</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>PhD Intern (Fund Internship Program), Monetary and Capital Markets Department</span>
   <span>2023</span>
 </div>
 
 <!-- Edgeworth Economics -->
-<div style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
   <span><b>Edgeworth Economics</b></span>
   <span>Washington, DC</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>Senior Consultant</span>
   <span>2019 – 2020</span>
 </div>
 
 <!-- Charles River Associates -->
-<div style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
   <span><b>Charles River Associates</b></span>
   <span>London, UK</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>Consulting Associate Intern, Competition Practice</span>
   <span>2018</span>
 </div>
 
 <!-- OECD -->
-<div style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
   <span><b>Organization for Economic Cooperation and Development (OECD)</b></span>
   <span>Paris, France</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>Research Intern, Directorate for Financial and Enterprise Affairs</span>
   <span>2018</span>
 </div>
 
 <!-- BAK Economics -->
-<div style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
   <span><b>BAK Economics</b></span>
   <span>Basel, Switzerland</span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>Research Intern</span>
   <span>2017</span>
 </div>
@@ -239,7 +239,7 @@ See <a href="/research">Research</a>
 </div>
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
 
-<div style="display: flex; justify-content: space-between;">
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span><b>University of British Columbia</b></span>
   <span>Vancouver, BC</span>
 </div>

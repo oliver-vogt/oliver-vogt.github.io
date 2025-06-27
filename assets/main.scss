@@ -26,6 +26,19 @@ body {
   }
 }
 
+@media (max-width: 800px) {
+  .cv-flex {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 0.2em;
+  }
+  .cv-flex > span {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 0.2em;
+  }
+}
+
 .site-header,
 .site-footer {
   background-color: #0c246c;
