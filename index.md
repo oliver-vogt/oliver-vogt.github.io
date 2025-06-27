@@ -10,18 +10,17 @@ nav_title: "About"
   </span>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-top: 1em;">
-  <div style="flex: 1;">
+<div class="intro-flex">
+  <img src="/assets/img/portrait.jpeg" alt="Portrait of Oliver Vogt" class="intro-img" />
+  <div class="intro-text">
     I am a PhD candidate at the <a href="https://economics.ubc.ca/" target="_blank" rel="noopener">Vancouver School of Economics, University of British Columbia</a>. I was previously a PhD intern at the International Monetary Fund and the Swiss National Bank.
     <br><br>
     My main research interests lie in International Finance and Macroeconomics, with a particular focus on FX interventions and capital flows.
     <br><br>
-    <!--Away from the keyboard, you’ll likely find me outdoors, usually cycling along Vancouver’s <a href="#BCCycling">coastal roads</a> or <a href="#AlpsCycling">high in the Alps</a> back home in Switzerland.-->
     When I step away from the keyboard, you'll likely find me outdoors. I particularly enjoy cycling along Vancouver’s <a href="#BCCycling">coastal roads</a> or through the <a href="#AlpsCycling">high Alps</a> when I'm back home in Switzerland.
     <br><br>
     You can find more details in my <a href="/cv">CV</a> or explore my <a href="/research">research</a>.
   </div>
-  <img src="/assets/img/portrait.jpeg" alt="Portrait of Oliver Vogt" style="width:240px; margin-left: 32px;" />
 </div>
 
 <!-- Linked Pictures -->
@@ -48,11 +47,38 @@ nav_title: "About"
   #BCCycling:target {
     display: flex !important;
   }
+.intro-flex {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 1em;
+  gap: 32px;
+}
+.intro-text {
+  flex: 1;
+  min-width: 0;
+}
+.intro-img {
+  width: 240px;
+  max-width: 90vw;
+  height: auto;
+  border-radius: 4px;
+}
+@media (max-width: 800px) {
+  .intro-flex {
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+  .intro-img {
+    order: -1;
+    width: 70vw;
+    max-width: 320px;
+    margin-left: 0;
+    margin-bottom: 1em;
+  }
+  .intro-text {
+    width: 100%;
+    text-align: left;
+  }
+}
 </style>
-
-<!--
-[Download my CV (PDF)](/assets/cv/Olivervogt_CV.pdf)
-
-
-*Email:* oliver@example.com &nbsp;|&nbsp; [GitHub](https://github.com/YOU) &nbsp;|&nbsp; [Google Scholar](#)
--->
