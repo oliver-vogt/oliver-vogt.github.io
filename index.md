@@ -11,7 +11,6 @@ nav_title: "About"
 </div>
 
 <div class="intro-flex">
-  <img src="/assets/img/portrait.jpeg" alt="Portrait of Oliver Vogt" class="intro-img" />
   <div class="intro-text">
     I am a PhD candidate at the <a href="https://economics.ubc.ca/" target="_blank" rel="noopener">Vancouver School of Economics, University of British Columbia</a>. I was previously a PhD intern at the International Monetary Fund and the Swiss National Bank.
     <br><br>
@@ -21,6 +20,7 @@ nav_title: "About"
     <br><br>
     You can find more details in my <a href="/cv">CV</a> or explore my <a href="/research">research</a>.
   </div>
+  <img src="/assets/img/portrait.jpeg" alt="Portrait of Oliver Vogt" class="intro-img" />
 </div>
 
 <!-- Linked Pictures -->
