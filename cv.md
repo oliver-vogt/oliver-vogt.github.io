@@ -6,7 +6,7 @@ nav_title: "CV"
 <div style="margin-top: -2em; margin-bottom: 1em;">
   <span style="color: #0c246c; font-weight: bold; font-size: 2em;">
     CV
-    <span style="color: #0c246c; font-weight: bold; font-size: 0.5em;">[</span><a href="/assets/cv/Vogt_Oliver_CV.pdf" target="_blank" style="font-size: 0.5em; font-weight: normal; text-decoration: none;">Academic CV</a><span style="color: #0c246c; font-weight: bold; font-size: 0.5em;"> &bull; </span><a href="/assets/cv/Vogt_Oliver_Resume.pdf" target="_blank" style="font-size: 0.5em; font-weight: normal; text-decoration: none;">Resume</a><span style="color: #0c246c; font-weight: bold; font-size: 0.5em;">]</span>
+    <span style="color: #0c246c; font-weight: bold; font-size: 0.5em;">[</span><a href="/assets/cv/Vogt_Oliver_CV.pdf" target="_blank" style="font-size: 0.5em; font-weight: normal; text-decoration: none;">CV</a><span style="color: #0c246c; font-weight: bold; font-size: 0.5em;"> &bull; </span><a href="/assets/cv/Vogt_Oliver_Resume.pdf" target="_blank" style="font-size: 0.5em; font-weight: normal; text-decoration: none;">Resume</a><span style="color: #0c246c; font-weight: bold; font-size: 0.5em;">]</span>
   </span>
 </div>
 <!--
