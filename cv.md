@@ -140,25 +140,25 @@ See <a href="/research">Research</a>
 </div>
 <div>Teaching Assistant</div>
 <ul style="padding-left: 1em; margin-left: 0; list-style: none;">
-  <li> 
-    International Trade (Undergraduate)
-    <span style="float: right;">2024</span>
+   <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
+    International Trade
+    <span style="white-space: nowrap;">2024</span>
   </li>
-  <li>
-    Introduction to International Finance (Undergraduate)
-    <span style="float: right;">2023</span>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
+    Introduction to International Finance
+    <span style="white-space: nowrap;">2023</span>
   </li>
-  <li>
-    Money and Banking (Undergraduate)
-    <span style="float: right;">2022</span>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
+    Money and Banking
+    <span style="white-space: nowrap;">2022</span>
   </li>
-  <li>
-    Macroeconomics (Graduate)
-    <span style="float: right;">2021</span>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
+    Macroeconomics
+    <span style="white-space: nowrap;">2021</span>
   </li>
-  <li>
-    Introduction to Economic Research (Graduate)
-    <span style="float: right;">2021</span>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
+    Introduction to Economic Research
+    <span style="white-space: nowrap;">2021</span>
   </li>
   <!-- more items -->
 </ul>
@@ -244,25 +244,25 @@ See <a href="/research">Research</a>
   <span>Vancouver, BC</span>
 </div>
 <ul style="padding-left: 1em; margin-left: 0; list-style: none;">
-  <li>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     Doctoral Fellowship (Four Year Fellowship)
-    <span style="float: right;">2021 – Present</span>
+    <span style="white-space: nowrap;">2021 – Present</span>
   </li>
-  <li>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     President’s Academic Excellence Initiative PhD Award
-    <span style="float: right;">2021 – Present</span>
+    <span style="white-space: nowrap;">2021 – Present</span>
   </li>
-  <li>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     International Tuition Award
-    <span style="float: right;">2020 – Present</span>
+    <span style="white-space: nowrap;">2020 – Present</span>
   </li>
-  <li>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     Albert Whiteley Memorial Fellowship 
-    <span style="float: right;">2020 – 2021</span>
+    <span style="white-space: nowrap;">2020 – 2021</span>
   </li>
-  <li>
-    Faculty of Arts Graduate Award
-    <span style="float: right;">2020 – 2021</span>
+  <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
+    Faculty of Arts Graduate Award 
+    <span style="white-space: nowrap;">2020 – 2021</span>
   </li>
   <!-- more items -->
 </ul>
