@@ -1,0 +1,51 @@
+---
+---
+
+@import "minima";
+
+/* Your overrides go here */
+body {
+  font-family: sans-serif;
+}
+
+.wrapper {
+  max-width: 960px;   // or 1140px, as you prefer
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.site-header,
+.site-footer {
+  background-color: #0c246c;
+  color: #ffffff;
+}
+
+/* Make sure site title and nav links are white */
+.site-title,
+.site-title a {
+  color: #ffffff !important;
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+}
+
+.site-nav,
+.site-nav a {
+  color: #ffffff !important;
+}
+
+.site-footer i {
+  font-size: 1.1em;
+  vertical-align: middle;
+}
+
+/* Only apply white background and dark text for nav on small screens */
+@media (max-width: 600px) {
+  nav, .site-nav, .menu, .mobile-menu {
+    background: #fff !important;
+    color: #0c246c !important;
+  }
+  nav a, .site-nav a, .menu a, .mobile-menu a {
+    color: #0c246c !important;
+  }
+}
