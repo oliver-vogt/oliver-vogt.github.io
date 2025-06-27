@@ -50,8 +50,8 @@ nav_title: "About"
 .intro-flex {
   display: flex;
   align-items: flex-start;
-  margin-top: 1em;
   gap: 32px;
+  flex-direction: row; /* text left, image right */
 }
 .intro-text {
   flex: 1;
