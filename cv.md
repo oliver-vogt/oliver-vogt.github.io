@@ -276,7 +276,11 @@ See <a href="/research">Research</a>
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
 <ul style="padding-left: 0; margin-left: 0; list-style: none;">
   <li style="display: flex; justify-content: space-between;">
-    <span>IMF Monetary and Capital Markets Department Policy Forum</span>
+    <span>
+      IMF Monetary and Capital Markets Department Policy Forum,
+      Banco Central de Chile<sup title="Presented by co-author" style="color:#888;">&#8224;</sup>,
+      JEDC Conference (Poster Session)<sup title="Scheduled" style="color:#888;">*</sup>
+    </span>
     <span>2025</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
@@ -296,6 +300,9 @@ See <a href="/research">Research</a>
     <span>2022</span>
   </li>
 </ul>
+<div style="font-size:0.95em; color:#888; margin-top:0.5em;">
+  <span><sup>*</sup> Scheduled,&nbsp;&nbsp;<sup>&#8224;</sup> Presented by co-author</span>
+</div>
 
 <!-- Programming -->
 <div style="margin-top: 2em;">

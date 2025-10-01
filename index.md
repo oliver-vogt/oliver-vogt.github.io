@@ -12,15 +12,17 @@ nav_title: "About"
 
 <div class="intro-flex">
   <div class="intro-text">
-    I am a PhD candidate at the <a href="https://economics.ubc.ca/" target="_blank" rel="noopener">Vancouver School of Economics, University of British Columbia</a>. I was previously a PhD intern at the International Monetary Fund and the Swiss National Bank.
+    I am a PhD candidate in Economics at the <a href="https://economics.ubc.ca/" target="_blank" rel="noopener">Vancouver School of Economics, University of British Columbia</a>. I was previously a PhD intern at the International Monetary Fund and the Swiss National Bank.
     <br><br>
-    My main research interests lie in International Finance and Macroeconomics, with a particular focus on FX interventions and capital flows.
+    <b>I am on the 2025–2026 Job Market!</b>
+    <br><br>
+    My main research interests lie in International Finance and Macroeconomics, with a particular focus on exchange rates, capital flows and FX interventions.
     <br><br>
     When I step away from the keyboard, you'll likely find me outdoors. I particularly enjoy cycling along Vancouver’s <a href="#BCCycling">coastal roads</a> or through the <a href="#AlpsCycling">high Alps</a> when I'm back home in Switzerland.
     <br><br>
     You can find more details in my <a href="/cv">CV</a> or explore my <a href="/research">research</a>.
   </div>
-  <img src="/assets/img/portrait.jpeg" alt="Portrait of Oliver Vogt" class="intro-img" />
+  <img src="/assets/img/portrait.jpg" alt="Portrait of Oliver Vogt" class="intro-img" />
 </div>
 
 <!-- Linked Pictures -->
@@ -58,7 +60,7 @@ nav_title: "About"
   min-width: 0;
 }
 .intro-img {
-  width: 240px;
+  width: 250px;
   max-width: 90vw;
   height: auto;
   border-radius: 4px;
