@@ -141,7 +141,7 @@ See <a href="/research">Research</a>
 <div>Teaching Assistant</div>
 <ul style="padding-left: 1em; margin-left: 0; list-style: none;">
    <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
-    International Trade
+    Introduction to International Trade
     <span style="white-space: nowrap;">2024</span>
   </li>
   <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
@@ -150,7 +150,7 @@ See <a href="/research">Research</a>
   </li>
   <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     Money and Banking
-    <span style="white-space: nowrap;">2022</span>
+    <span style="white-space: nowrap;">2021 – 2022</span>
   </li>
   <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     Macroeconomics
@@ -279,17 +279,14 @@ See <a href="/research">Research</a>
     <span>
       IMF Monetary and Capital Markets Department Policy Forum,
       Banco Central de Chile<sup title="Presented by co-author" style="color:#888;">&#8224;</sup>,
-      JEDC Conference (Poster Session)<sup title="Scheduled" style="color:#888;">*</sup>
+      JEDC Conference (Poster Session),
+      20th End-Of-Year Conference of Swiss Economists Abroad<sup title="Scheduled" style="color:#888;">*</sup>
     </span>
     <span>2025</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
-    <span>19th End-Of-Year Conference of Swiss Economists Abroad</span>
+    <span>Swiss National Bank Brown Bag Seminar, 19th End-Of-Year Conference of Swiss Economists Abroad</span>
     <span>2024</span>
-  </li>
-  <li style="display: flex; justify-content: space-between;">
-    <span>Swiss National Bank Brown Bag Seminar</span>
-    <span>2023</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
     <span>57th Annual Conference of the Canadian Economics Association</span>
@@ -331,30 +328,27 @@ English (Fluent), German (Native), French (Proficient), Mandarin (Basic)
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
 
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1 1 300px; min-width: 250px; margin-right: 2em;">
+  <div style="flex: 1 1 300px; min-width: 250px; margin-right: 0.5em;">
     <a href="https://economics.ubc.ca/profile/michael-devereux/">Michael Devereux</a><br>
     Professor<br>
     Vancouver School of Economics<br>
     University of British Columbia<br>
     <a href="mailto:michael.devereux@ubc.ca">michael.devereux@ubc.ca</a>
     <br><br>
+  </div>
+  <div style="flex: 1 1 300px; min-width: 250px; margin-right: 0.5em;">
     <a href="https://economics.ubc.ca/profile/viktoriya-hnatkovska/">Viktoriya Hnatkovska</a><br>
     Associate Professor<br>
     Vancouver School of Economics<br>
     University of British Columbia<br>
     <a href="mailto:viktoriya.hnatkovska@ubc.ca">viktoriya.hnatkovska@ubc.ca</a>
-  </div>
-  <div style="flex: 1 1 300px; min-width: 250px;">
-    <a href="https://www.sauder.ubc.ca/people/isha-agarwal">Isha Agarwal</a><br>
-    Assistant Professor<br>
-    Sauder School of Business<br>
-    University of British Columbia<br>
-    <a href="mailto:isha.agarwal@sauder.ubc.ca">isha.agarwal@sauder.ubc.ca</a>
     <br><br>
+  </div>
+   <div style="flex: 1 1 300px; min-width: 250px;">
     <a href="https://jbengui.github.io">Julien Bengui</a><br>
     Economic Advisor<br>
     International Monetary Cooperation<br>
     Swiss National Bank<br>
     <a href="mailto:jbengui@gmail.com">jbengui@gmail.com</a>
-  </div>
+    <br><br>
 </div>
