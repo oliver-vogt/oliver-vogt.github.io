@@ -349,6 +349,6 @@ English (Fluent), German (Native), French (Proficient), Mandarin (Basic)
     Economic Advisor<br>
     International Monetary Cooperation<br>
     Swiss National Bank<br>
-    <a href="mailto:jbengui@gmail.com">jbengui@gmail.com</a>
+    <a href="mailto:julien.bengui@snb.ch">julien.bengui@snb.ch</a>
     <br><br>
 </div>
