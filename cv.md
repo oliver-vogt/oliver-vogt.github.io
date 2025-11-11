@@ -317,7 +317,7 @@ Python, Matlab, Julia, Stata, R, SQL
   </span>
 </div>
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
-English (Fluent), German (Native), French (Proficient), Mandarin (Basic)
+English (Fluent), German (Native), French (Proficient)
 
 <!-- References -->
 <div style="margin-top: 2em;">
