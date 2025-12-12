@@ -30,7 +30,7 @@ Optimal FX Interventions with Limited Reserves <span style="font-weight:400;">(w
 </span>
 <details>
   <summary>
-    Abstract&nbsp;|&nbsp;<a href="/assets/papers/KVZ_FXI.pdf" target="_blank">Paper</a>
+    Abstract&nbsp;|&nbsp;<a href="https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025261-source-pdf.pdf" target="_blank">IMF Working Paper</a>
   </summary>
   <p>
     We investigate the optimal time-consistent use of foreign exchange interventions (FXI) in a small open economy model driven by endowment and portfolio flow shocks, with endogenous FX market depth and a lower bound constraint on FX reserves. In a competitive equilibrium, large capital flows increase conditional exchange rate volatility and make FX markets more shallow. Unlike in the unconstrained case, the central bank's optimal interventions are not solely targeted at offsetting inefficient fluctuations in the UIP premium but also incorporate a forward-looking element due to the risk of depleting reserves. We show that this environment leads to optimal time-consistent FXI policy that is highly state-dependent. FX sales are more effective than FX purchases, and the policy may respond less or more than one-for-one to capital outflows, depending on their size and the economy's net foreign assets position. Adopting the policy delivers sizable welfare gains, significantly exceeding those from a simple rule directed at stabilizing current capital outflows, but only if the initial level of FX reserves is sufficiently high.
