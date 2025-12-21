@@ -267,7 +267,9 @@ See <a href="/research">Research</a>
   <!-- more items -->
 </ul>
 
-<!-- Presentations -->
+<!-- Presentations 
+  20th End-Of-Year Conference of Swiss Economists Abroad<sup title="Scheduled" style="color:#888;">*</sup>
+-->
 <div style="margin-top: 2em;">
   <span style="color: #0c246c; font-variant: small-caps; font-weight: bold; font-size: 1.5em;">
     Presentations
@@ -280,7 +282,7 @@ See <a href="/research">Research</a>
       IMF Monetary and Capital Markets Department Policy Forum,
       Banco Central de Chile<sup title="Presented by co-author" style="color:#888;">&#8224;</sup>,
       JEDC Conference (Poster Session),
-      20th End-Of-Year Conference of Swiss Economists Abroad<sup title="Scheduled" style="color:#888;">*</sup>
+      20th End-Of-Year Conference of Swiss Economists Abroad
     </span>
     <span>2025</span>
   </li>
