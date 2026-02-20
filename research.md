@@ -16,7 +16,7 @@ FX Market Depth and Exchange Rate Volatility <span style="font-weight:400;">(Job
 </span>
 <details>
   <summary>
-  Abstract&nbsp;|&nbsp;<a href="/assets/papers/Vogt_Oliver_JMP.pdf" target="_blank">Paper</a>  <em>(Frequently updated)</em>
+  Abstract&nbsp;|&nbsp;<a href="/assets/papers/Vogt_Oliver_JMP.pdf" target="_blank">Paper</a> 
   </summary>
   <p>
     Using security-level holdings of globally diversified mutual funds, this paper applies a granular instrumental variable approach to identify currency demand shocks at the bilateral exchange rate level. These shocks cause significant exchange rate movements in both emerging market (EM) and advanced economy (AE) currencies, consistent with the view that FX markets are inelastic—or “shallow.” The estimates show that for flows of the same size, EM currencies respond about nine times more than AE currencies, underscoring their much lower market depth. The results further reveal state dependence along two dimensions. First, during periods of high expected exchange rate volatility, FX markets are highly inelastic, whereas in tranquil periods they are nearly perfectly elastic. Second, in episodes of mutual fund outflows, FX markets are shallower than during inflows. The first property holds for both EM and AE currencies, while the second is specific to EMs. A quantitative small open economy model with segmented FX markets featuring limited risk-bearing capacity and balance sheet constraints rationalizes these empirical findings.
@@ -28,6 +28,8 @@ FX Market Depth and Exchange Rate Volatility <span style="font-weight:400;">(Job
 <span style="font-size:1.05em; font-weight:600;">
 Optimal FX Interventions with Limited Reserves <span style="font-weight:400;">(with <a href="https://sites.google.com/view/marcin-kolasa/home" target="_blank">Marcin Kolasa</a> and <a href="http://www.zabczyk.com" target="_blank">Pawel Zabczyk</a>)</span>
 </span>
+<br>
+Revise and Resubmit, <em>Journal of Monetary Economics</em>
 <details>
   <summary>
     Abstract&nbsp;|&nbsp;<a href="https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025261-source-pdf.pdf" target="_blank">IMF Working Paper</a>
