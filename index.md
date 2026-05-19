@@ -16,6 +16,8 @@ nav_title: "About"
     <br><br>
     My main research interests lie in International Finance and Macroeconomics, with a particular focus on exchange rates, capital flows and FX interventions.
     <br><br>
+    <b>In July 2026, I will join the Swiss National Bank as an Economist in the Monetary Policy Analysis unit.</b>
+    <br><br>
     You can find more details in my <a href="/cv">CV</a> or explore my <a href="/research">research</a>.
   </div>
   <img src="/assets/img/portrait.jpg" alt="Portrait of Oliver Vogt" class="intro-img" />
