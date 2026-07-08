@@ -12,7 +12,7 @@ nav_title: "Research"
 
 <div style="margin-bottom: 1em;">
 <span style="font-size:1.05em; font-weight:600;">
-FX Market Depth and Exchange Rate Volatility <span style="font-weight:400;">(Job Market Paper)</span>
+FX Market Depth and Exchange Rate Volatility <span style="font-weight:400;"></span>
 </span>
 <details>
   <summary>

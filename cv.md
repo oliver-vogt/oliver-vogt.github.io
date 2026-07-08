@@ -24,14 +24,90 @@ nav_title: "CV"
   </span>
 </div>
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
-<a href="https://economics.ubc.ca/">
-  Vancouver School of Economics<br>
-  University of British Columbia
-</a><br>
-6000 Iona Drive, Vancouver<br>
-BC Canada V6T 1L4<br>
+Swiss National Bank<br>
+Börsenstrasse 15<br>
+8022 Zürich<br>
+Switzerland<br>
 <br>
-<a href="tel:+41765268599">Phone</a> &bull; <a href="mailto:oliver.p.vogt@gmail.com">Email</a> &bull; <a href="https://www.linkedin.com/in/oliver-vogt-75011914a">LinkedIn</a>
+<a href="tel:+41762459212">Phone</a> &bull; <a href="mailto:oliver.vogt@snb.ch">Email</a> &bull; <a href="https://www.linkedin.com/in/oliver-vogt-75011914a">LinkedIn</a>
+
+<!-- Professional Experience -->
+<div style="margin-top: 2em;">
+  <span style="color: #0c246c; font-variant: small-caps; font-weight: bold; font-size: 1.5em;">
+    Professional Experience
+  </span>
+</div>
+<hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
+
+<!-- SNB Economist -->
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
+  <span><b>Swiss National Bank</b></span>
+  <span>Zurich, Switzerland</span>
+</div>
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
+  <span>Economist, Monetary Policy Analysis Unit</span>
+  <span>2026 – Present</span>
+</div>
+
+<!-- SNB Intern -->
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
+  <span><b>Swiss National Bank</b></span>
+  <span>Zurich, Switzerland</span>
+</div>
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
+  <span>PhD Intern, International Policy Analysis Unit</span>
+  <span>2023 – 2024</span>
+</div>
+
+<!-- IMF -->
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+  <span><b>International Monetary Fund</b></span>
+  <span>Washington, DC</span>
+</div>
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
+  <span>PhD Intern (Fund Internship Program), Monetary and Capital Markets Department</span>
+  <span>2023</span>
+</div>
+
+<!-- Edgeworth Economics -->
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+  <span><b>Edgeworth Economics</b></span>
+  <span>Washington, DC</span>
+</div>
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
+  <span>Senior Consultant</span>
+  <span>2019 – 2020</span>
+</div>
+
+<!-- Charles River Associates -->
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+  <span><b>Charles River Associates</b></span>
+  <span>London, UK</span>
+</div>
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
+  <span>Consulting Associate Intern, Competition Practice</span>
+  <span>2018</span>
+</div>
+
+<!-- OECD -->
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+  <span><b>Organization for Economic Cooperation and Development (OECD)</b></span>
+  <span>Paris, France</span>
+</div>
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
+  <span>Research Intern, Directorate for Financial and Enterprise Affairs</span>
+  <span>2018</span>
+</div>
+
+<!-- BAK Economics -->
+<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
+  <span><b>BAK Economics</b></span>
+  <span>Basel, Switzerland</span>
+</div>
+<div class="cv-flex" style="display: flex; justify-content: space-between;">
+  <span>Research Intern</span>
+  <span>2017</span>
+</div>
 
 <!-- Education -->
 <div style="margin-top: 2em;">
@@ -47,7 +123,7 @@ BC Canada V6T 1L4<br>
 </div>
 <div class="cv-flex" style="display: flex; justify-content: space-between;">
   <span>Doctor of Philosophy (Ph.D.) in Economics</span>
-  <span>2020 – Present</span>
+  <span>2020 – 2026</span>
 </div>
 
 <!-- Columbia -->
@@ -97,6 +173,46 @@ International Finance, Macroeconomics, Monetary Economics
 </div>
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
 See <a href="/research">Research</a>
+
+<!-- Presentations 
+  20th End-Of-Year Conference of Swiss Economists Abroad<sup title="Scheduled" style="color:#888;">*</sup>
+-->
+<div style="margin-top: 2em;">
+  <span style="color: #0c246c; font-variant: small-caps; font-weight: bold; font-size: 1.5em;">
+    Presentations
+  </span>
+</div>
+<hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
+<ul style="padding-left: 0; margin-left: 0; list-style: none;">
+  <li style="display: flex; justify-content: space-between;">
+    <span>Norges Bank, Swiss National Bank, 29th Theories and Methods in Macro Conference, Annual Congress of the Swiss Society of Economics and Statistics, Annual Conference of the International Finance Society (Poster) </span>
+    <span>2026</span>
+  </li>
+  <li style="display: flex; justify-content: space-between;">
+    <span>
+      IMF Monetary and Capital Markets Department Policy Forum,
+      Banco Central de Chile<sup title="Presented by co-author" style="color:#888;">&#8224;</sup>,
+      Journal of Economic Dynamics and Control Conference (Poster),
+      20th End-Of-Year Conference of Swiss Economists Abroad
+    </span>
+    <span>2025</span>
+  </li>
+  <li style="display: flex; justify-content: space-between;">
+    <span>Swiss National Bank Brown Bag Seminar, 19th End-Of-Year Conference of Swiss Economists Abroad</span>
+    <span>2024</span>
+  </li>
+  <li style="display: flex; justify-content: space-between;">
+    <span>57th Annual Conference of the Canadian Economics Association</span>
+    <span>2023</span>
+  </li>
+    <li style="display: flex; justify-content: space-between;">
+    <span>17th End-Of-Year Conference of Swiss Economists Abroad</span>
+    <span>2022</span>
+  </li>
+</ul>
+<div style="font-size:0.95em; color:#888; margin-top:0.5em;">
+  <span><sup>*</sup> Scheduled,&nbsp;&nbsp;<sup>&#8224;</sup> Presented by co-author</span>
+</div>
 
 <!-- Research Assistantships -->
 <div style="margin-top: 2em;">
@@ -163,74 +279,6 @@ See <a href="/research">Research</a>
   <!-- more items -->
 </ul>
 
-<!-- Professional Experience -->
-<div style="margin-top: 2em;">
-  <span style="color: #0c246c; font-variant: small-caps; font-weight: bold; font-size: 1.5em;">
-    Professional Experience
-  </span>
-</div>
-<hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
-
-<!-- SNB -->
-<div class="cv-flex" style="display: flex; justify-content: space-between;">
-  <span><b>Swiss National Bank</b></span>
-  <span>Zurich, Switzerland</span>
-</div>
-<div class="cv-flex" style="display: flex; justify-content: space-between;">
-  <span>PhD Intern, International Policy Analysis Unit</span>
-  <span>2023 – 2024</span>
-</div>
-
-<!-- IMF -->
-<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
-  <span><b>International Monetary Fund</b></span>
-  <span>Washington, DC</span>
-</div>
-<div class="cv-flex" style="display: flex; justify-content: space-between;">
-  <span>PhD Intern (Fund Internship Program), Monetary and Capital Markets Department</span>
-  <span>2023</span>
-</div>
-
-<!-- Edgeworth Economics -->
-<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
-  <span><b>Edgeworth Economics</b></span>
-  <span>Washington, DC</span>
-</div>
-<div class="cv-flex" style="display: flex; justify-content: space-between;">
-  <span>Senior Consultant</span>
-  <span>2019 – 2020</span>
-</div>
-
-<!-- Charles River Associates -->
-<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
-  <span><b>Charles River Associates</b></span>
-  <span>London, UK</span>
-</div>
-<div class="cv-flex" style="display: flex; justify-content: space-between;">
-  <span>Consulting Associate Intern, Competition Practice</span>
-  <span>2018</span>
-</div>
-
-<!-- OECD -->
-<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
-  <span><b>Organization for Economic Cooperation and Development (OECD)</b></span>
-  <span>Paris, France</span>
-</div>
-<div class="cv-flex" style="display: flex; justify-content: space-between;">
-  <span>Research Intern, Directorate for Financial and Enterprise Affairs</span>
-  <span>2018</span>
-</div>
-
-<!-- BAK Economics -->
-<div class="cv-flex" style="display: flex; justify-content: space-between; margin-top: 0.25em;">
-  <span><b>BAK Economics</b></span>
-  <span>Basel, Switzerland</span>
-</div>
-<div class="cv-flex" style="display: flex; justify-content: space-between;">
-  <span>Research Intern</span>
-  <span>2017</span>
-</div>
-
 <!-- Awards and Fellowships -->
 <div style="margin-top: 2em;">
   <span style="color: #0c246c; font-variant: small-caps; font-weight: bold; font-size: 1.5em;">
@@ -246,15 +294,15 @@ See <a href="/research">Research</a>
 <ul style="padding-left: 1em; margin-left: 0; list-style: none;">
   <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     Doctoral Fellowship (Four Year Fellowship)
-    <span style="white-space: nowrap;">2021 – Present</span>
+    <span style="white-space: nowrap;">2021 – 2026</span>
   </li>
   <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     President’s Academic Excellence Initiative PhD Award
-    <span style="white-space: nowrap;">2021 – Present</span>
+    <span style="white-space: nowrap;">2021 – 2026</span>
   </li>
   <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     International Tuition Award
-    <span style="white-space: nowrap;">2020 – Present</span>
+    <span style="white-space: nowrap;">2020 – 2026</span>
   </li>
   <li style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
     Albert Whiteley Memorial Fellowship 
@@ -266,42 +314,6 @@ See <a href="/research">Research</a>
   </li>
   <!-- more items -->
 </ul>
-
-<!-- Presentations 
-  20th End-Of-Year Conference of Swiss Economists Abroad<sup title="Scheduled" style="color:#888;">*</sup>
--->
-<div style="margin-top: 2em;">
-  <span style="color: #0c246c; font-variant: small-caps; font-weight: bold; font-size: 1.5em;">
-    Presentations
-  </span>
-</div>
-<hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
-<ul style="padding-left: 0; margin-left: 0; list-style: none;">
-  <li style="display: flex; justify-content: space-between;">
-    <span>
-      IMF Monetary and Capital Markets Department Policy Forum,
-      Banco Central de Chile<sup title="Presented by co-author" style="color:#888;">&#8224;</sup>,
-      JEDC Conference (Poster Session),
-      20th End-Of-Year Conference of Swiss Economists Abroad
-    </span>
-    <span>2025</span>
-  </li>
-  <li style="display: flex; justify-content: space-between;">
-    <span>Swiss National Bank Brown Bag Seminar, 19th End-Of-Year Conference of Swiss Economists Abroad</span>
-    <span>2024</span>
-  </li>
-  <li style="display: flex; justify-content: space-between;">
-    <span>57th Annual Conference of the Canadian Economics Association</span>
-    <span>2023</span>
-  </li>
-    <li style="display: flex; justify-content: space-between;">
-    <span>17th End-Of-Year Conference of Swiss Economists Abroad</span>
-    <span>2022</span>
-  </li>
-</ul>
-<div style="font-size:0.95em; color:#888; margin-top:0.5em;">
-  <span><sup>*</sup> Scheduled,&nbsp;&nbsp;<sup>&#8224;</sup> Presented by co-author</span>
-</div>
 
 <!-- Programming -->
 <div style="margin-top: 2em;">
@@ -321,7 +333,7 @@ Python, Matlab, Julia, Stata, R, SQL
 <hr style="border: none; border-top: 2px solid #0c246c; margin: 0.3em 0 1em 0;">
 English (Fluent), German (Native), French (Proficient)
 
-<!-- References -->
+<!-- References 
 <div style="margin-top: 2em;">
   <span style="color: #0c246c; font-variant: small-caps; font-weight: bold; font-size: 1.5em;">
     References
@@ -354,3 +366,4 @@ English (Fluent), German (Native), French (Proficient)
     <a href="mailto:julien.bengui@snb.ch">julien.bengui@snb.ch</a>
     <br><br>
 </div>
+-->
